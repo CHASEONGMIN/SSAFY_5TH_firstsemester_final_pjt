@@ -156,3 +156,41 @@ http://localhost:8080/
 https://github.com/tofan0412/final-pjt/commits/master
 
 
+
+## 7) 결과 (추가 내용)
+
+![메인화면](README.assets/메인화면.PNG)
+
+
+
+- 메인화면의 모습
+
+![추천알고리즘 기반 영화추천_1](README.assets/추천알고리즘 기반 영화추천_1.PNG)
+
+- 사용자의 선택 영화에 따른 추천알고리즘 제공
+
+![게시글 crud(권한있는 사람만)](README.assets/게시글 crud(권한있는 사람만).PNG)
+
+![게시글 crud(권한있는 사람만)_2](README.assets/게시글 crud(권한있는 사람만)_2.PNG)
+
+- 권한있는 사용자들에 대해 게시글 crud 기능 제공
+
+![리뷰 CRUD](README.assets/리뷰 CRUD.PNG)
+
+- 권한있는 사용자들에 대해 평점 CRUD 기능 제공
+
+![Infinite scroll 구현](README.assets/Infinite scroll 구현.PNG)
+
+- 인피니트 스크롤 구현
+
+![게시글 검색기능](README.assets/게시글 검색기능.PNG)
+
+- 게시글 검색 기능 제공
+
+![회원가입시 비밀번호 동일한지 파악](README.assets/회원가입시 비밀번호 동일한지 파악.PNG)
+
+- 회원가입 시 비밀번호의 일치여부 제공
+
+![아이디 및 비밀번호 저장 기능](README.assets/아이디 및 비밀번호 저장 기능.PNG)
+
+- 로그인 시 자동 로그인 기능 제공
